@@ -1,0 +1,2 @@
+datapoint,id,num_words_q1,num_words_q2,q1_pos,q1_neg,q2_pos,q2_neg,same_end,cosine,num_similar,wv_dot,is_duplicate
+0,0.0,14.0,12.0,6.0,3.0,5.0,2.0,0.0,0.28858381509780884,0.0,0.2834036946296692,0.0
