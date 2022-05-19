@@ -1,15 +1,8 @@
 # DD2417_project
 
 # Create feature vectors - only needed first time
-Go to the folder data and:
-Run the functions XX and YY in get_features.py (this takes a long time)
+In order to create the feature vectors, you should run the get_features.py file. The features will be outputted to a csv file afterwards. Bear in mind that creating those features is time consuming. 
 
-# Data
-Put the following files in a folder called data
-feature_vectors.csv
-question_pairs_final.csv 
-w2v_1.csv
-Positive and Negative Word List.ods
 
 # Test models 
-Select which model to run in the run_model.py file. 
+In order to test how the models performed for the created features, you should run the run_mdodel.py file. After running a classifer a confusion matrix will be outputted as well as a classification accuracy. 
