@@ -5,4 +5,4 @@ In order to create the feature vectors, you should run the get_features.py file.
 
 
 # Test models 
-In order to test how the models performed for the created features, you should run the run_mdodel.py file. After running a classifer a confusion matrix will be outputted as well as a classification accuracy. 
+In order to test how the models performed for the created features, you should run the run_model.py file. After running a classifer a confusion matrix will be outputted as well as a classification accuracy. 
